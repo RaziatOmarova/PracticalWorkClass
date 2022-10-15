@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Документы\work\console\Тема class 15 10 22г\Тема class 15 10 22г\bin\Debug\Тема class 15 10 22г.exe.config
+C:\Users\user\OneDrive\Документы\work\console\Тема class 15 10 22г\Тема class 15 10 22г\bin\Debug\Тема class 15 10 22г.exe
+C:\Users\user\OneDrive\Документы\work\console\Тема class 15 10 22г\Тема class 15 10 22г\bin\Debug\Тема class 15 10 22г.pdb
+C:\Users\user\OneDrive\Документы\work\console\Тема class 15 10 22г\Тема class 15 10 22г\obj\Debug\Тема class 15 10 22г.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Документы\work\console\Тема class 15 10 22г\Тема class 15 10 22г\obj\Debug\Тема class 15 10 22г.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Документы\work\console\Тема class 15 10 22г\Тема class 15 10 22г\obj\Debug\Тема class 15 10 22г.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Документы\work\console\Тема class 15 10 22г\Тема class 15 10 22г\obj\Debug\Тема class 15 10 22г.exe
+C:\Users\user\OneDrive\Документы\work\console\Тема class 15 10 22г\Тема class 15 10 22г\obj\Debug\Тема class 15 10 22г.pdb
